@@ -1,8 +1,8 @@
-<!-- Level 3: Add custom code -->
-
+<!-- Taken from xsol05's tutorial! -->
 # 👋 Hi, I'm Ibrahim!
-👩🏻‍💻 Data Analyst with a passion for building user-centric applications<br/>
+👩🏻‍💻 Data Analyst with AI/ML and Software Engineering skills<br/>
 👩🏻‍🎓 Studied Business Analytics & Systems Design at Singapore University of Technology & Design<br/>
+💭 Currently learning about PySpark (& many other things! 😅)
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=ibra2407&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
