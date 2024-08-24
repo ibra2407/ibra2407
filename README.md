@@ -4,7 +4,7 @@
 👩🏻‍🎓 Studied Business Analytics & Systems Design at Singapore University of Technology & Design<br/>
 💭 Currently learning about building web app infrastructure using AWS (& many other things! 😅)
 
-Check out my GitHub portfolio ![here!](https://ibra2407.github.io/portfolio/)
+Check out my GitHub portfolio [here!](https://ibra2407.github.io/portfolio/)
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!--![](https://github-readme-stats.vercel.app/api?username=ibra2407&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
