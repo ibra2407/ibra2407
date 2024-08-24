@@ -1,8 +1,10 @@
 <!-- Taken from xsol05's tutorial! -->
 # 👋 Hi, I'm Ibrahim!
-👩🏻‍💻 Data Analyst with AI/ML and Software Engineering skills<br/>
+👩🏻‍💻 Data Analyst with AI/ML & Software Engineering skills<br/>
 👩🏻‍🎓 Studied Business Analytics & Systems Design at Singapore University of Technology & Design<br/>
-💭 Currently learning about PySpark (& many other things! 😅)
+💭 Currently learning about building web app infrastructure using AWS (& many other things! 😅)
+
+Check out my GitHub portfolio ![here!](https://ibra2407.github.io/portfolio/)
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!--![](https://github-readme-stats.vercel.app/api?username=ibra2407&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
